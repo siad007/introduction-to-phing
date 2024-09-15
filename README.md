@@ -9,7 +9,7 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
+# Introduction to Phing
 
 _TBD-course-description_
 
@@ -26,7 +26,7 @@ _TBD-course-description_
 
 ## Step 1: TBD-step-1-name
 
-_Welcome to "TBD-course-name"! :wave:_
+_Welcome to "Introduction to Phing"! :wave:_
 
 TBD-step-1-information
 
