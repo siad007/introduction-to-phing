@@ -24,13 +24,20 @@ _Get started using Phing in less than an hour._
   TBD-step-1-notes.
 -->
 
-## Step 1: TBD-step-1-name
+## Welcome
 
-_Welcome to "Introduction to Phing"! :wave:_
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
-TBD-step-1-information
+- **Who is this for**: New Phing users.
+- **What you'll learn**: We'll introduce phing, a build file, targets, tasks, and types.
+- **What you'll build**: We'll make a short `build.xml` file.
+- **Prerequisites**: None. This course is a great introduction for your first day with Phing.
+- **How long**: This course takes less than one hour to complete.
 
-**What is _TBD-term-1_**: TBD-definition-1
+In this course, you will:
+
+1. Create a build file
+2. Create a "Hello world" project
 
 ### How to start this course
 
